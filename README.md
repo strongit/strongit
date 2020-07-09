@@ -3,7 +3,7 @@ Hi there 👋,I'm strongit--A Gopher/Pythoner On Kubernetes Engineer,occasional 
 
 
 - 🔭 I’m currently working on cloud container/compute platform manager system
-- 🌱 I’m currently learning java spring
+- 🌱 I’m currently learning Java Spring
 - 👯 I’m looking to collaborate on Part-time K8S Remote Job
 - 💬 Ask me about http://devopslinux.com/
 - 📫 How to reach me: Email（1271759139@qq.com） Webchat（xiaofei9509）
